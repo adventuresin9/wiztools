@@ -1,7 +1,40 @@
 rgb values 0-255 (over 255 loops to lower numbers, >512 is bad param)
 temp 2200-6500
-sceneid 1-32 
 dimming 10-100
-speed 10-200
 state true or fale, and 1 or 0 (turns bulbs on and off)
+
+speed 10-200
+sceneid 1-32 
+1:"Ocean"
+2:"Romance"
+3:"Sunset"
+4:"Party"
+5:"Fireplace"
+6:"Cozy"
+7:"Forest"
+8:"Pastel Colors"
+9:"Wake up"
+10:"Bedtime"
+11:"Warm White"
+12:"Daylight"
+13:"Cool white"
+14:"Night light"
+15:"Focus"
+16:"Relax"
+17:"True colors"
+18:"TV time"
+19:"Plantgrowth"
+20:"Spring"
+21:"Summer"
+22:"Fall"
+23:"Deepdive"
+24:"Jungle"
+25:"Mojito"
+26:"Club"
+27:"Christmas"
+28:"Halloween"
+29:"Candlelight"
+30:"Golden white"
+31:"Pulse"
+32:"Steampunk"
 
