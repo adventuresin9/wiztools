@@ -25,4 +25,4 @@ See notes.txt for valid integers.
 
 wizpick is a gui program based of this;
 https://wiki.xxiivv.com/site/plan9_color.html
-right click brings up a menu with an option to send the current selected rgb color value to the bulb at the ip address given as the argument when the progrtam was started.
+right click brings up a menu with an option to send the current selected rgb color value to the bulb at the ip address given as the argument when the program was started.
