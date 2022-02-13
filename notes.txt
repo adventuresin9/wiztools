@@ -1,0 +1,7 @@
+rgb values 0-255 (over 255 loops to lower numbers, >512 is bad param)
+temp 2200-6500
+sceneid 1-32 
+dimming 10-100
+speed 10-200
+state true or fale, and 1 or 0 (turns bulbs on and off)
+
